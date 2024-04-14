@@ -1,0 +1,9 @@
+button {
+    background-color: #CCC !important;
+    border: 1px solid #343434 !important;
+    color: #343434 !important;
+}
+.count_num {
+    font-size: 30px;
+    font-weight: bold;
+}
